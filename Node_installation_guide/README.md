@@ -56,7 +56,7 @@ You should replace values in <> <br />
 ```
 echo "export NOLUS_WALLET="<YOUR_WALLET_NAME>"" >> $HOME/.bash_profile
 echo "export NOLUS_NODENAME="<YOUR_MONIKER>"" >> $HOME/.bash_profile
-echo "export NOLUS_CHAIN_ID="testnet-1"" >> $HOME/.bash_profile
+echo "export NOLUS_CHAIN_ID="nolus-rila"" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
 
