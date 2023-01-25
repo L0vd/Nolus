@@ -20,7 +20,7 @@ https://github.com/L0vd/Nolus/tree/main/Monitoring
 https://github.com/L0vd/Nolus/tree/main/StateSync
 
 ## :heart: Wallet bot
-https://github.com/L0vd/Nolus/tree/main/Humans_wallet_bot
+https://github.com/L0vd/Nolus/tree/main/Nolus_wallet_bot
 
 ## :heart: Public RPC endpoint
 http://135.181.178.53:43657/
